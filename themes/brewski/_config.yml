@@ -5,7 +5,11 @@ menu:
   Home: /
   About: /about/
   Archives: /archives/
-  RSS: /atom.xml/
+  Hair: /categories/hair/
+  Skincare: /categories/skincare/
+  Culture: /categories/culture/
+  Makeup: /categories/makeup/
+  Wellness: /categories/wellness/
 
 favicon: /images/favicon.png
 logo: /images/logo.jpg
