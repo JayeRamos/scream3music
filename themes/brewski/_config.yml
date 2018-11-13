@@ -1,0 +1,23 @@
+name: Scream 3 Music
+url: /
+
+menu:
+  Home: /
+  About: /about/
+  Archives: /archives/
+  RSS: /atom.xml/
+
+favicon: /images/favicon.png
+logo: /images/logo.jpg
+
+# Disqus shortname
+disqus:
+
+# Analytics
+google_analytics:
+
+# Copyright Infomation
+copyright:
+  since: 2013
+  name: Scream 3 Music
+  url: www.scream3music.com
