@@ -13,6 +13,8 @@ Have you ever paid special attention to the color of the food you eat? Most peop
 However, in recent years pearl pigment powder has entered the food industry, following its previous domination over cosmetic products and decorative products. It is a great boon for the foodies and gourmets who coveted eye-catching and scrumptious food all along. 
 Nevertheless, it is not easy to distinguish the high-quality edible pearl pigment powder from the inferior ones. And this article is going to offer you some tips on selecting the premium edible pearl pigment.
 
+<!-- more -->
+
 ![](/images/15.jpg)
 
 #### Certificate
